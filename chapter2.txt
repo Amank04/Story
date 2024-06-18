@@ -1,2 +1,1 @@
-Hello, 
-      This is my chapter 02. Happy to learn git & github.
+I believe in gods.
